@@ -20,3 +20,6 @@
    ```bash
    https://github.com/z50n6/password-deduplicator.git
    cd password-deduplicator
+   ```
+   
+![img.png](img.png)
